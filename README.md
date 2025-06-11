@@ -1,2 +1,2 @@
-# simpleParserDemo.github.io
+# simpleParserDemo
 Простой парсер демо-версия
